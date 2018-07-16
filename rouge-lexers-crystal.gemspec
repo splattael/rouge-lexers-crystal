@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Crystal lexer for rouge}
   spec.description   = %q{https://github.com/jneen/rouge/pull/441}
-  spec.homepage      = "https://github.com/splattae/rouge-lexers-crystal"
+  spec.homepage      = "https://github.com/splattael/rouge-lexers-crystal"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.

@@ -1,8 +1,8 @@
 # Rouge::Lexers::Crystal
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rouge/lexers/crystal`. To experiment with that code, run `bin/console` for an interactive prompt.
+[Crystal](https://crystal-lang.org) lexer for [rouge](http://rouge.jneen.net/).
 
-TODO: Delete this and the text above, and describe your gem
+This gem exists because rouge lacks support for the Crystal language. These PRs are pending: [441](https://github.com/jneen/rouge/pull/441) and [863](https://github.com/jneen/rouge/pull/863).
 
 ## Installation
 
@@ -22,7 +22,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See rouge's [README](https://github.com/jneen/rouge/blob/master/README.md) for the full description.
+
 
 ## Development
 

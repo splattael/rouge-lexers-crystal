@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "rouge-lexers-crystal"
-  spec.version       = "1.0.0.rc1"
+  spec.version       = "1.0.0"
   spec.authors       = ["Peter Leitzen"]
   spec.email         = ["peter@leitzen.de"]
 

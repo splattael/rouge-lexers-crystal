@@ -1,3 +1,9 @@
+# DEPRECATED :skull:
+
+The PR [441](https://github.com/jneen/rouge/pull/441) has been merged :tada: so this repository is not needed anymore.
+
+Use [rouge](https://github.com/jneen/rouge) instead.
+
 # Rouge::Lexers::Crystal
 
 [Crystal](https://crystal-lang.org) lexer for [rouge](http://rouge.jneen.net/).
